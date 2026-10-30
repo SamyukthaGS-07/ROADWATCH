@@ -1,0 +1,50 @@
+services:
+  master:
+    image: roadwatch-hadoop:3.2.3
+    container_name: roadwatch-master
+    hostname: master
+    command: bash -lc "cp /config/*.xml $$HADOOP_HOME/etc/hadoop/ && if [ ! -f /data/namenode/current/VERSION ]; then $$HADOOP_HOME/bin/hdfs namenode -format -nonInteractive; fi; $$HADOOP_HOME/bin/hdfs namenode & $$HADOOP_HOME/bin/yarn resourcemanager & wait"
+    ports:
+      - "19870:9870"
+      - "18088:8088"
+      - "9001:9000"
+    volumes:
+      - ./docker/config:/config:ro
+      - roadwatch-namenode:/data/namenode
+    networks:
+      - roadwatch-net
+
+  worker1:
+    image: roadwatch-hadoop:3.2.3
+    container_name: roadwatch-worker1
+    hostname: worker1
+    command: bash -lc "cp /config/*.xml $$HADOOP_HOME/etc/hadoop/ && $$HADOOP_HOME/bin/hdfs datanode & $$HADOOP_HOME/bin/yarn nodemanager & wait"
+    depends_on:
+      - master
+    volumes:
+      - ./docker/config:/config:ro
+      - roadwatch-worker1-data:/data/datanode
+    networks:
+      - roadwatch-net
+
+  worker2:
+    image: roadwatch-hadoop:3.2.3
+    container_name: roadwatch-worker2
+    hostname: worker2
+    command: bash -lc "cp /config/*.xml $$HADOOP_HOME/etc/hadoop/ && $$HADOOP_HOME/bin/hdfs datanode & $$HADOOP_HOME/bin/yarn nodemanager & wait"
+    depends_on:
+      - master
+    volumes:
+      - ./docker/config:/config:ro
+      - roadwatch-worker2-data:/data/datanode
+    networks:
+      - roadwatch-net
+
+networks:
+  roadwatch-net:
+    name: roadwatch-net
+
+volumes:
+  roadwatch-namenode:
+  roadwatch-worker1-data:
+  roadwatch-worker2-data:

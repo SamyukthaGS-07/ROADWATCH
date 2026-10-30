@@ -1,0 +1,21 @@
+accident_id,city,state,latitude,longitude,date,hour,accident_severity
+D001,Chennai,Tamil Nadu,13.0827,80.2707,2025-01-05,18,Fatal
+D002,Chennai,Tamil Nadu,13.0831,80.2711,2025-01-06,19,Major
+D003,Chennai,Tamil Nadu,13.0819,80.2699,2025-01-07,20,Minor
+D004,Chennai,Tamil Nadu,13.0840,80.2720,2025-01-08,17,Major
+D005,Chennai,Tamil Nadu,13.0834,80.2702,2025-01-09,18,Minor
+D006,Chennai,Tamil Nadu,13.0500,80.2100,2025-01-10,09,Minor
+D007,Chennai,Tamil Nadu,13.0510,80.2110,2025-01-11,10,Major
+D008,Coimbatore,Tamil Nadu,11.0168,76.9558,2025-01-12,18,Minor
+D009,Coimbatore,Tamil Nadu,11.0171,76.9562,2025-01-13,19,Major
+D010,Coimbatore,Tamil Nadu,11.0180,76.9570,2025-01-14,20,Minor
+D011,Bengaluru,Karnataka,12.9716,77.5946,2025-01-15,18,Fatal
+D012,Bengaluru,Karnataka,12.9720,77.5950,2025-01-16,19,Major
+D013,Bengaluru,Karnataka,12.9708,77.5938,2025-01-17,20,Minor
+D014,Mumbai,Maharashtra,19.0760,72.8777,2025-01-18,18,Major
+D015,Mumbai,Maharashtra,19.0765,72.8781,2025-01-19,19,Minor
+D016,Mumbai,Maharashtra,19.0755,72.8772,2025-01-20,20,Fatal
+D017,Hyderabad,Telangana,17.3850,78.4867,2025-01-21,18,Minor
+D018,Hyderabad,Telangana,17.3855,78.4872,2025-01-22,19,Major
+D019,Delhi,Delhi,28.6139,77.2090,2025-01-23,18,Major
+D020,Delhi,Delhi,28.6144,77.2095,2025-01-24,19,Minor

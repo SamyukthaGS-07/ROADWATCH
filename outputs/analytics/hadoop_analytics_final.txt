@@ -1,0 +1,1152 @@
+accidents|city|Agra|2023	1007
+accidents|city|Agra|2024	1223
+accidents|city|Ahmedabad|2023	1767
+accidents|city|Ahmedabad|2024	1586
+accidents|city|Allahabad (Prayagraj)|2023	1297
+accidents|city|Allahabad (Prayagraj)|2024	1246
+accidents|city|Amritsar|2023	147
+accidents|city|Amritsar|2024	111
+accidents|city|Asansol Durgapur|2023	500
+accidents|city|Asansol Durgapur|2024	480
+accidents|city|Aurangabad|2023	619
+accidents|city|Aurangabad|2024	582
+accidents|city|Bengaluru|2023	4974
+accidents|city|Bengaluru|2024	4769
+accidents|city|Bhopal|2023	2906
+accidents|city|Bhopal|2024	2900
+accidents|city|Chandigarh|2023	182
+accidents|city|Chandigarh|2024	169
+accidents|city|Chennai|2023	3653
+accidents|city|Chennai|2024	3762
+accidents|city|Coimbatore|2023	1161
+accidents|city|Coimbatore|2024	1176
+accidents|city|Delhi|2023	5834
+accidents|city|Delhi|2024	5657
+accidents|city|Dhanbad|2023	435
+accidents|city|Dhanbad|2024	349
+accidents|city|Faridabad|2023	598
+accidents|city|Faridabad|2024	592
+accidents|city|Ghaziabad|2023	991
+accidents|city|Ghaziabad|2024	996
+accidents|city|Gwalior|2023	2064
+accidents|city|Gwalior|2024	2040
+accidents|city|Hyderabad|2023	2943
+accidents|city|Hyderabad|2024	3785
+accidents|city|Indore|2023	3566
+accidents|city|Indore|2024	3488
+accidents|city|Jabalpur|2023	4205
+accidents|city|Jabalpur|2024	3928
+accidents|city|Jaipur|2023	2915
+accidents|city|Jaipur|2024	3115
+accidents|city|Jamshedpur|2023	329
+accidents|city|Jamshedpur|2024	348
+accidents|city|Jodhpur|2023	686
+accidents|city|Jodhpur|2024	750
+accidents|city|Kannur|2023	1636
+accidents|city|Kannur|2024	1718
+accidents|city|Kanpur|2023	1342
+accidents|city|Kanpur|2024	1448
+accidents|city|Khozikode|2023	2194
+accidents|city|Khozikode|2024	2357
+accidents|city|Kochi|2023	2803
+accidents|city|Kochi|2024	3167
+accidents|city|Kolkata|2023	1994
+accidents|city|Kolkata|2024	1942
+accidents|city|Kollam|2023	2136
+accidents|city|Kollam|2024	1984
+accidents|city|Kota|2023	592
+accidents|city|Kota|2024	491
+accidents|city|Lucknow|2023	1460
+accidents|city|Lucknow|2024	1630
+accidents|city|Ludhiana|2023	504
+accidents|city|Ludhiana|2024	477
+accidents|city|Madurai|2023	768
+accidents|city|Madurai|2024	645
+accidents|city|Mallapuram|2023	3253
+accidents|city|Mallapuram|2024	3483
+accidents|city|Meerut|2023	939
+accidents|city|Meerut|2024	911
+accidents|city|Mumbai|2023	2533
+accidents|city|Mumbai|2024	2604
+accidents|city|Nagpur|2023	1213
+accidents|city|Nagpur|2024	1255
+accidents|city|Nashik|2023	481
+accidents|city|Nashik|2024	512
+accidents|city|Patna|2023	322
+accidents|city|Patna|2024	466
+accidents|city|Pune|2023	1230
+accidents|city|Pune|2024	1403
+accidents|city|Raipur|2023	1961
+accidents|city|Raipur|2024	2079
+accidents|city|Rajkot|2023	494
+accidents|city|Rajkot|2024	416
+accidents|city|Srinagar|2023	476
+accidents|city|Srinagar|2024	441
+accidents|city|Surat|2023	650
+accidents|city|Surat|2024	659
+accidents|city|Thiruvanthapuram|2023	2213
+accidents|city|Thiruvanthapuram|2024	2292
+accidents|city|Thrissur|2023	2613
+accidents|city|Thrissur|2024	2411
+accidents|city|Tiruchirapalli|2023	619
+accidents|city|Tiruchirapalli|2024	563
+accidents|city|Total|2023	81144
+accidents|city|Total|2024	82127
+accidents|city|Vadodra|2023	566
+accidents|city|Vadodra|2024	557
+accidents|city|Varanasi|2023	558
+accidents|city|Varanasi|2024	538
+accidents|city|Vijaywada city|2023	1522
+accidents|city|Vijaywada city|2024	1343
+accidents|city|Vizaq|2023	1293
+accidents|city|Vizaq|2024	1283
+accidents|district|ARIYALUR|2021	545
+accidents|district|ARIYALUR|2022	562
+accidents|district|ARIYALUR|2023	584
+accidents|district|CHENGALPATTU|2021	1614
+accidents|district|CHENGALPATTU|2022	3044
+accidents|district|CHENGALPATTU|2023	3402
+accidents|district|CHENNAI CITY|2021	5035
+accidents|district|CHENNAI CITY|2022	3453
+accidents|district|CHENNAI CITY|2023	3654
+accidents|district|COIMBATORE|2021	2792
+accidents|district|COIMBATORE|2022	3544
+accidents|district|COIMBATORE|2023	3657
+accidents|district|CUDDALORE|2021	2927
+accidents|district|CUDDALORE|2022	3426
+accidents|district|CUDDALORE|2023	3121
+accidents|district|DHARMAPURI|2021	1240
+accidents|district|DHARMAPURI|2022	1357
+accidents|district|DHARMAPURI|2023	1420
+accidents|district|DINDIGUL|2021	1747
+accidents|district|DINDIGUL|2022	2002
+accidents|district|DINDIGUL|2023	2296
+accidents|district|ERODE|2021	1852
+accidents|district|ERODE|2022	2155
+accidents|district|ERODE|2023	2396
+accidents|district|KALLAKURICHI|2021	1070
+accidents|district|KALLAKURICHI|2022	1147
+accidents|district|KALLAKURICHI|2023	1166
+accidents|district|KANCHEEPURAM|2021	910
+accidents|district|KANCHEEPURAM|2022	1011
+accidents|district|KANCHEEPURAM|2023	1039
+accidents|district|KANNIYAKUMARI|2021	1225
+accidents|district|KANNIYAKUMARI|2022	1381
+accidents|district|KANNIYAKUMARI|2023	1471
+accidents|district|KARUR|2021	1111
+accidents|district|KARUR|2022	1101
+accidents|district|KARUR|2023	1132
+accidents|district|KRISHNAGIRI|2021	1734
+accidents|district|KRISHNAGIRI|2022	2029
+accidents|district|KRISHNAGIRI|2023	2142
+accidents|district|MADURAI|2021	2283
+accidents|district|MADURAI|2022	2489
+accidents|district|MADURAI|2023	2660
+accidents|district|MYILADUTHURAI|2022	660
+accidents|district|MYILADUTHURAI|2023	771
+accidents|district|NAGAPATTINAM|2021	1024
+accidents|district|NAGAPATTINAM|2022	592
+accidents|district|NAGAPATTINAM|2023	529
+accidents|district|NAMAKKAL|2021	1734
+accidents|district|NAMAKKAL|2022	2021
+accidents|district|NAMAKKAL|2023	2089
+accidents|district|PERAMBALUR|2021	511
+accidents|district|PERAMBALUR|2022	550
+accidents|district|PERAMBALUR|2023	529
+accidents|district|PUDUKKOTTAI|2021	1369
+accidents|district|PUDUKKOTTAI|2022	1731
+accidents|district|PUDUKKOTTAI|2023	1681
+accidents|district|RAMANATHAPURAM|2021	1107
+accidents|district|RAMANATHAPURAM|2022	1211
+accidents|district|RAMANATHAPURAM|2023	1310
+accidents|district|RANIPET|2021	833
+accidents|district|RANIPET|2022	858
+accidents|district|RANIPET|2023	911
+accidents|district|SALEM|2021	2606
+accidents|district|SALEM|2022	3360
+accidents|district|SALEM|2023	3199
+accidents|district|SIVAGANGAI|2021	961
+accidents|district|SIVAGANGAI|2022	1143
+accidents|district|SIVAGANGAI|2023	1244
+accidents|district|TENKASI|2021	979
+accidents|district|TENKASI|2022	1103
+accidents|district|TENKASI|2023	1117
+accidents|district|THANJAVUR|2021	1849
+accidents|district|THANJAVUR|2022	2224
+accidents|district|THANJAVUR|2023	2327
+accidents|district|THE NILGIRIS|2021	210
+accidents|district|THE NILGIRIS|2022	236
+accidents|district|THE NILGIRIS|2023	213
+accidents|district|THENI|2021	960
+accidents|district|THENI|2022	1121
+accidents|district|THENI|2023	1177
+accidents|district|THIRUVALLUR|2021	1274
+accidents|district|THIRUVALLUR|2022	2595
+accidents|district|THIRUVALLUR|2023	2624
+accidents|district|THIRUVARUR|2021	621
+accidents|district|THIRUVARUR|2022	727
+accidents|district|THIRUVARUR|2023	893
+accidents|district|THOOTHUKUDI|2021	1253
+accidents|district|THOOTHUKUDI|2022	1246
+accidents|district|THOOTHUKUDI|2023	1440
+accidents|district|TIRUCHIRAPALLI|2021	1953
+accidents|district|TIRUCHIRAPALLI|2022	2222
+accidents|district|TIRUCHIRAPALLI|2023	2426
+accidents|district|TIRUNELVELI|2021	1280
+accidents|district|TIRUNELVELI|2022	1294
+accidents|district|TIRUNELVELI|2023	1531
+accidents|district|TIRUPATHUR|2021	709
+accidents|district|TIRUPATHUR|2022	766
+accidents|district|TIRUPATHUR|2023	622
+accidents|district|TIRUPPUR|2021	2703
+accidents|district|TIRUPPUR|2022	3145
+accidents|district|TIRUPPUR|2023	3294
+accidents|district|TIRUVANNAMALAI|2021	1435
+accidents|district|TIRUVANNAMALAI|2022	1762
+accidents|district|TIRUVANNAMALAI|2023	1913
+accidents|district|Total|2021	55682
+accidents|district|Total|2022	64105
+accidents|district|Total|2023	67213
+accidents|district|VELLORE|2021	819
+accidents|district|VELLORE|2022	976
+accidents|district|VELLORE|2023	992
+accidents|district|VILLUPURAM|2021	2131
+accidents|district|VILLUPURAM|2022	2403
+accidents|district|VILLUPURAM|2023	2591
+accidents|district|VIRUDHUNAGAR|2021	1276
+accidents|district|VIRUDHUNAGAR|2022	1458
+accidents|district|VIRUDHUNAGAR|2023	1650
+accidents|region|India|2020	372181
+accidents|region|India|2021	412432
+accidents|region|India|2022	461312
+accidents|region|India|2023	480583
+accidents|region|India|2024	487707
+accidents|region|Tamil Nadu|1993	34925
+accidents|region|Tamil Nadu|1994	37037
+accidents|region|Tamil Nadu|1995	41685
+accidents|region|Tamil Nadu|1996	42197
+accidents|region|Tamil Nadu|1997	44203
+accidents|region|Tamil Nadu|1998	46723
+accidents|region|Tamil Nadu|1999	48086
+accidents|region|Tamil Nadu|2000	48923
+accidents|region|Tamil Nadu|2001	51978
+accidents|region|Tamil Nadu|2002	53503
+accidents|region|Tamil Nadu|2003	51025
+accidents|region|Tamil Nadu|2004	52508
+accidents|region|Tamil Nadu|2005	53878
+accidents|region|Tamil Nadu|2006	55145
+accidents|region|Tamil Nadu|2007	59140
+accidents|region|Tamil Nadu|2008	60409
+accidents|region|Tamil Nadu|2009	60794
+accidents|region|Tamil Nadu|2010	64996
+accidents|region|Tamil Nadu|2011	65873
+accidents|region|Tamil Nadu|2012	67757
+accidents|region|Tamil Nadu|2013	66238
+accidents|region|Tamil Nadu|2014	67250
+accidents|region|Tamil Nadu|2015	67250
+accidents|region|Tamil Nadu|2016	71431
+accidents|region|Tamil Nadu|2017	66763
+accidents|region|Tamil Nadu|2018	67279
+accidents|region|Tamil Nadu|2019	62685
+accidents|region|Tamil Nadu|2020	49844
+accidents|region|Tamil Nadu|2021	55682
+accidents|region|Tamil Nadu|2022	64105
+accidents|region|Tamil Nadu|2023	67213
+accidents|region|Tamil Nadu|2024	67526
+accidents|region|Tamil Nadu|2025	70916
+accidents|state|All India|2020	372181
+accidents|state|All India|2021	412432
+accidents|state|All India|2022	461312
+accidents|state|All India|2023	480583
+accidents|state|All India|2024	487707
+accidents|state|Andaman & Nicobar Islands|2020	141
+accidents|state|Andaman & Nicobar Islands|2021	115
+accidents|state|Andaman & Nicobar Islands|2022	141
+accidents|state|Andaman & Nicobar Islands|2023	143
+accidents|state|Andaman & Nicobar Islands|2024	135
+accidents|state|Andhra Pradesh|2020	19509
+accidents|state|Andhra Pradesh|2021	21556
+accidents|state|Andhra Pradesh|2022	21249
+accidents|state|Andhra Pradesh|2023	19949
+accidents|state|Andhra Pradesh|2024	19557
+accidents|state|Arunachal Pradesh|2020	134
+accidents|state|Arunachal Pradesh|2021	283
+accidents|state|Arunachal Pradesh|2022	227
+accidents|state|Arunachal Pradesh|2023	287
+accidents|state|Arunachal Pradesh|2024	277
+accidents|state|Assam|2020	6595
+accidents|state|Assam|2021	7411
+accidents|state|Assam|2022	7023
+accidents|state|Assam|2023	7421
+accidents|state|Assam|2024	7848
+accidents|state|Bihar|2020	8639
+accidents|state|Bihar|2021	9553
+accidents|state|Bihar|2022	10801
+accidents|state|Bihar|2023	11014
+accidents|state|Bihar|2024	11610
+accidents|state|Chandigarh|2020	159
+accidents|state|Chandigarh|2021	208
+accidents|state|Chandigarh|2022	237
+accidents|state|Chandigarh|2023	182
+accidents|state|Chandigarh|2024	169
+accidents|state|Chhattisgarh|2020	11656
+accidents|state|Chhattisgarh|2021	12375
+accidents|state|Chhattisgarh|2022	13279
+accidents|state|Chhattisgarh|2023	13468
+accidents|state|Chhattisgarh|2024	14857
+accidents|state|Dadra & Nagar Haveli and Daman & Diu|2020	100
+accidents|state|Dadra & Nagar Haveli and Daman & Diu|2021	140
+accidents|state|Dadra & Nagar Haveli and Daman & Diu|2022	196
+accidents|state|Dadra & Nagar Haveli and Daman & Diu|2023	182
+accidents|state|Dadra & Nagar Haveli and Daman & Diu|2024	152
+accidents|state|Delhi|2020	4178
+accidents|state|Delhi|2021	4720
+accidents|state|Delhi|2022	5652
+accidents|state|Delhi|2023	5834
+accidents|state|Delhi|2024	5657
+accidents|state|Goa|2020	2375
+accidents|state|Goa|2021	2849
+accidents|state|Goa|2022	3011
+accidents|state|Goa|2023	2846
+accidents|state|Goa|2024	2682
+accidents|state|Gujarat|2020	13398
+accidents|state|Gujarat|2021	15186
+accidents|state|Gujarat|2022	15751
+accidents|state|Gujarat|2023	16349
+accidents|state|Gujarat|2024	15588
+accidents|state|Haryana|2020	9431
+accidents|state|Haryana|2021	9933
+accidents|state|Haryana|2022	10429
+accidents|state|Haryana|2023	10463
+accidents|state|Haryana|2024	9806
+accidents|state|Himachal Pradesh|2020	2239
+accidents|state|Himachal Pradesh|2021	2404
+accidents|state|Himachal Pradesh|2022	2597
+accidents|state|Himachal Pradesh|2023	2253
+accidents|state|Himachal Pradesh|2024	2156
+accidents|state|J & K #|2020	4860
+accidents|state|J & K #|2021	5452
+accidents|state|J & K #|2022	6092
+accidents|state|J & K #|2023	6298
+accidents|state|J & K #|2024	5808
+accidents|state|Jharkhand|2020	4405
+accidents|state|Jharkhand|2021	4728
+accidents|state|Jharkhand|2022	5175
+accidents|state|Jharkhand|2023	5315
+accidents|state|Jharkhand|2024	5196
+accidents|state|Karnataka|2020	34178
+accidents|state|Karnataka|2021	34647
+accidents|state|Karnataka|2022	39762
+accidents|state|Karnataka|2023	43440
+accidents|state|Karnataka|2024	43062
+accidents|state|Kerala|2020	27877
+accidents|state|Kerala|2021	33296
+accidents|state|Kerala|2022	43910
+accidents|state|Kerala|2023	48091
+accidents|state|Kerala|2024	48834
+accidents|state|Ladakh|2021	236
+accidents|state|Ladakh|2022	374
+accidents|state|Ladakh|2023	289
+accidents|state|Ladakh|2024	264
+accidents|state|Lakshadweep|2020	1
+accidents|state|Lakshadweep|2021	4
+accidents|state|Lakshadweep|2022	3
+accidents|state|Lakshadweep|2023	1
+accidents|state|Lakshadweep|2024	0
+accidents|state|Madhya Pradesh|2020	45266
+accidents|state|Madhya Pradesh|2021	48877
+accidents|state|Madhya Pradesh|2022	54432
+accidents|state|Madhya Pradesh|2023	55327
+accidents|state|Madhya Pradesh|2024	56669
+accidents|state|Maharashtra|2020	24971
+accidents|state|Maharashtra|2021	29477
+accidents|state|Maharashtra|2022	33383
+accidents|state|Maharashtra|2023	35243
+accidents|state|Maharashtra|2024	36118
+accidents|state|Manipur|2020	432
+accidents|state|Manipur|2021	366
+accidents|state|Manipur|2022	508
+accidents|state|Manipur|2023	398
+accidents|state|Manipur|2024	299
+accidents|state|Meghalaya|2020	214
+accidents|state|Meghalaya|2021	245
+accidents|state|Meghalaya|2022	246
+accidents|state|Meghalaya|2023	223
+accidents|state|Meghalaya|2024	269
+accidents|state|Mizoram|2020	53
+accidents|state|Mizoram|2021	69
+accidents|state|Mizoram|2022	133
+accidents|state|Mizoram|2023	106
+accidents|state|Mizoram|2024	118
+accidents|state|Nagaland|2020	500
+accidents|state|Nagaland|2021	746
+accidents|state|Nagaland|2022	489
+accidents|state|Nagaland|2023	303
+accidents|state|Nagaland|2024	129
+accidents|state|Odisha|2020	9817
+accidents|state|Odisha|2021	10983
+accidents|state|Odisha|2022	11663
+accidents|state|Odisha|2023	11992
+accidents|state|Odisha|2024	12375
+accidents|state|Puducherry|2020	969
+accidents|state|Puducherry|2021	1049
+accidents|state|Puducherry|2022	1181
+accidents|state|Puducherry|2023	1308
+accidents|state|Puducherry|2024	1431
+accidents|state|Punjab|2020	5203
+accidents|state|Punjab|2021	5871
+accidents|state|Punjab|2022	6138
+accidents|state|Punjab|2023	6269
+accidents|state|Punjab|2024	6063
+accidents|state|Rajasthan|2020	19114
+accidents|state|Rajasthan|2021	20951
+accidents|state|Rajasthan|2022	23614
+accidents|state|Rajasthan|2023	24694
+accidents|state|Rajasthan|2024	24838
+accidents|state|Sikkim|2020	138
+accidents|state|Sikkim|2021	155
+accidents|state|Sikkim|2022	211
+accidents|state|Sikkim|2023	182
+accidents|state|Sikkim|2024	149
+accidents|state|Tamil Nadu|2020	49844
+accidents|state|Tamil Nadu|2021	55682
+accidents|state|Tamil Nadu|2022	64105
+accidents|state|Tamil Nadu|2023	67213
+accidents|state|Tamil Nadu|2024	67526
+accidents|state|Telangana|2020	19172
+accidents|state|Telangana|2021	21315
+accidents|state|Telangana|2022	21619
+accidents|state|Telangana|2023	22903
+accidents|state|Telangana|2024	25986
+accidents|state|Tripura|2020	466
+accidents|state|Tripura|2021	479
+accidents|state|Tripura|2022	575
+accidents|state|Tripura|2023	577
+accidents|state|Tripura|2024	578
+accidents|state|Uttar Pradesh|2020	34243
+accidents|state|Uttar Pradesh|2021	37729
+accidents|state|Uttar Pradesh|2022	41746
+accidents|state|Uttar Pradesh|2023	44534
+accidents|state|Uttar Pradesh|2024	46052
+accidents|state|Uttarakhand|2020	1041
+accidents|state|Uttarakhand|2021	1405
+accidents|state|Uttarakhand|2022	1674
+accidents|state|Uttarakhand|2023	1691
+accidents|state|Uttarakhand|2024	1747
+accidents|state|West Bengal|2020	10863
+accidents|state|West Bengal|2021	11937
+accidents|state|West Bengal|2022	13686
+accidents|state|West Bengal|2023	13795
+accidents|state|West Bengal|2024	13702
+fatal_accidents|region|Tamil Nadu|1993	6528
+fatal_accidents|region|Tamil Nadu|1994	7027
+fatal_accidents|region|Tamil Nadu|1995	7974
+fatal_accidents|region|Tamil Nadu|1996	8079
+fatal_accidents|region|Tamil Nadu|1997	7947
+fatal_accidents|region|Tamil Nadu|1998	8510
+fatal_accidents|region|Tamil Nadu|1999	8734
+fatal_accidents|region|Tamil Nadu|2000	8269
+fatal_accidents|region|Tamil Nadu|2001	8579
+fatal_accidents|region|Tamil Nadu|2002	9012
+fatal_accidents|region|Tamil Nadu|2003	8393
+fatal_accidents|region|Tamil Nadu|2004	8733
+fatal_accidents|region|Tamil Nadu|2005	8844
+fatal_accidents|region|Tamil Nadu|2006	10055
+fatal_accidents|region|Tamil Nadu|2007	11034
+fatal_accidents|region|Tamil Nadu|2008	11813
+fatal_accidents|region|Tamil Nadu|2009	12727
+fatal_accidents|region|Tamil Nadu|2010	14241
+fatal_accidents|region|Tamil Nadu|2011	14359
+fatal_accidents|region|Tamil Nadu|2012	15072
+fatal_accidents|region|Tamil Nadu|2013	14504
+fatal_accidents|region|Tamil Nadu|2014	14165
+fatal_accidents|region|Tamil Nadu|2015	14524
+fatal_accidents|region|Tamil Nadu|2016	16092
+fatal_accidents|region|Tamil Nadu|2017	16899
+fatal_accidents|region|Tamil Nadu|2018	17387
+fatal_accidents|region|Tamil Nadu|2019	17196
+fatal_accidents|region|Tamil Nadu|2020	13868
+fatal_accidents|region|Tamil Nadu|2021	14747
+fatal_accidents|region|Tamil Nadu|2022	17080
+fatal_accidents|region|Tamil Nadu|2023	17526
+fatal_accidents|region|Tamil Nadu|2024	17640
+fatal_accidents|region|Tamil Nadu|2025	17551
+fatalities|city|Agra|2023	499
+fatalities|city|Agra|2024	586
+fatalities|city|Ahmedabad|2023	535
+fatalities|city|Ahmedabad|2024	410
+fatalities|city|Allahabad (Prayagraj)|2023	582
+fatalities|city|Allahabad (Prayagraj)|2024	547
+fatalities|city|Amritsar|2023	110
+fatalities|city|Amritsar|2024	78
+fatalities|city|Asansol Durgapur|2023	353
+fatalities|city|Asansol Durgapur|2024	305
+fatalities|city|Aurangabad|2023	203
+fatalities|city|Aurangabad|2024	188
+fatalities|city|Bengaluru|2023	915
+fatalities|city|Bengaluru|2024	894
+fatalities|city|Bhopal|2023	196
+fatalities|city|Bhopal|2024	235
+fatalities|city|Chandigarh|2023	67
+fatalities|city|Chandigarh|2024	75
+fatalities|city|Chennai|2023	503
+fatalities|city|Chennai|2024	542
+fatalities|city|Coimbatore|2023	305
+fatalities|city|Coimbatore|2024	296
+fatalities|city|Delhi|2023	1457
+fatalities|city|Delhi|2024	1551
+fatalities|city|Dhanbad|2023	306
+fatalities|city|Dhanbad|2024	211
+fatalities|city|Faridabad|2023	269
+fatalities|city|Faridabad|2024	232
+fatalities|city|Ghaziabad|2023	365
+fatalities|city|Ghaziabad|2024	381
+fatalities|city|Gwalior|2023	344
+fatalities|city|Gwalior|2024	351
+fatalities|city|Hyderabad|2023	335
+fatalities|city|Hyderabad|2024	301
+fatalities|city|Indore|2023	257
+fatalities|city|Indore|2024	290
+fatalities|city|Jabalpur|2023	545
+fatalities|city|Jabalpur|2024	589
+fatalities|city|Jaipur|2023	849
+fatalities|city|Jaipur|2024	860
+fatalities|city|Jamshedpur|2023	218
+fatalities|city|Jamshedpur|2024	236
+fatalities|city|Jodhpur|2023	261
+fatalities|city|Jodhpur|2024	233
+fatalities|city|Kannur|2023	117
+fatalities|city|Kannur|2024	125
+fatalities|city|Kanpur|2023	638
+fatalities|city|Kanpur|2024	560
+fatalities|city|Khozikode|2023	172
+fatalities|city|Khozikode|2024	153
+fatalities|city|Kochi|2023	177
+fatalities|city|Kochi|2024	172
+fatalities|city|Kolkata|2023	159
+fatalities|city|Kolkata|2024	191
+fatalities|city|Kollam|2023	211
+fatalities|city|Kollam|2024	153
+fatalities|city|Kota|2023	114
+fatalities|city|Kota|2024	117
+fatalities|city|Lucknow|2023	568
+fatalities|city|Lucknow|2024	576
+fatalities|city|Ludhiana|2023	402
+fatalities|city|Ludhiana|2024	375
+fatalities|city|Madurai|2023	264
+fatalities|city|Madurai|2024	228
+fatalities|city|Mallapuram|2023	309
+fatalities|city|Mallapuram|2024	316
+fatalities|city|Meerut|2023	395
+fatalities|city|Meerut|2024	390
+fatalities|city|Mumbai|2023	384
+fatalities|city|Mumbai|2024	370
+fatalities|city|Nagpur|2023	308
+fatalities|city|Nagpur|2024	345
+fatalities|city|Nashik|2023	208
+fatalities|city|Nashik|2024	197
+fatalities|city|Patna|2023	200
+fatalities|city|Patna|2024	249
+fatalities|city|Pune|2023	351
+fatalities|city|Pune|2024	345
+fatalities|city|Raipur|2023	507
+fatalities|city|Raipur|2024	594
+fatalities|city|Rajkot|2023	178
+fatalities|city|Rajkot|2024	160
+fatalities|city|Srinagar|2023	56
+fatalities|city|Srinagar|2024	55
+fatalities|city|Surat|2023	309
+fatalities|city|Surat|2024	314
+fatalities|city|Thiruvanthapuram|2023	137
+fatalities|city|Thiruvanthapuram|2024	170
+fatalities|city|Thrissur|2023	231
+fatalities|city|Thrissur|2024	213
+fatalities|city|Tiruchirapalli|2023	165
+fatalities|city|Tiruchirapalli|2024	164
+fatalities|city|Total|2023	17255
+fatalities|city|Total|2024	17186
+fatalities|city|Vadodra|2023	199
+fatalities|city|Vadodra|2024	183
+fatalities|city|Varanasi|2023	327
+fatalities|city|Varanasi|2024	304
+fatalities|city|Vijaywada city|2023	373
+fatalities|city|Vijaywada city|2024	430
+fatalities|city|Vizaq|2023	322
+fatalities|city|Vizaq|2024	346
+fatalities|district|ARIYALUR|2021	174
+fatalities|district|ARIYALUR|2022	184
+fatalities|district|ARIYALUR|2023	190
+fatalities|district|CHENGALPATTU|2021	472
+fatalities|district|CHENGALPATTU|2022	937
+fatalities|district|CHENGALPATTU|2023	936
+fatalities|district|CHENNAI CITY|2021	999
+fatalities|district|CHENNAI CITY|2022	507
+fatalities|district|CHENNAI CITY|2023	504
+fatalities|district|COIMBATORE|2021	841
+fatalities|district|COIMBATORE|2022	1057
+fatalities|district|COIMBATORE|2023	1044
+fatalities|district|CUDDALORE|2021	550
+fatalities|district|CUDDALORE|2022	478
+fatalities|district|CUDDALORE|2023	585
+fatalities|district|DHARMAPURI|2021	317
+fatalities|district|DHARMAPURI|2022	389
+fatalities|district|DHARMAPURI|2023	343
+fatalities|district|DINDIGUL|2021	539
+fatalities|district|DINDIGUL|2022	680
+fatalities|district|DINDIGUL|2023	755
+fatalities|district|ERODE|2021	525
+fatalities|district|ERODE|2022	661
+fatalities|district|ERODE|2023	687
+fatalities|district|KALLAKURICHI|2021	275
+fatalities|district|KALLAKURICHI|2022	284
+fatalities|district|KALLAKURICHI|2023	327
+fatalities|district|KANCHEEPURAM|2021	240
+fatalities|district|KANCHEEPURAM|2022	303
+fatalities|district|KANCHEEPURAM|2023	297
+fatalities|district|KANNIYAKUMARI|2021	321
+fatalities|district|KANNIYAKUMARI|2022	306
+fatalities|district|KANNIYAKUMARI|2023	350
+fatalities|district|KARUR|2021	413
+fatalities|district|KARUR|2022	382
+fatalities|district|KARUR|2023	362
+fatalities|district|KRISHNAGIRI|2021	589
+fatalities|district|KRISHNAGIRI|2022	646
+fatalities|district|KRISHNAGIRI|2023	656
+fatalities|district|MADURAI|2021	711
+fatalities|district|MADURAI|2022	810
+fatalities|district|MADURAI|2023	890
+fatalities|district|MYILADUTHURAI|2022	153
+fatalities|district|MYILADUTHURAI|2023	146
+fatalities|district|NAGAPATTINAM|2021	225
+fatalities|district|NAGAPATTINAM|2022	134
+fatalities|district|NAGAPATTINAM|2023	134
+fatalities|district|NAMAKKAL|2021	422
+fatalities|district|NAMAKKAL|2022	529
+fatalities|district|NAMAKKAL|2023	584
+fatalities|district|PERAMBALUR|2021	173
+fatalities|district|PERAMBALUR|2022	228
+fatalities|district|PERAMBALUR|2023	188
+fatalities|district|PUDUKKOTTAI|2021	380
+fatalities|district|PUDUKKOTTAI|2022	497
+fatalities|district|PUDUKKOTTAI|2023	447
+fatalities|district|RAMANATHAPURAM|2021	335
+fatalities|district|RAMANATHAPURAM|2022	374
+fatalities|district|RAMANATHAPURAM|2023	426
+fatalities|district|RANIPET|2021	242
+fatalities|district|RANIPET|2022	271
+fatalities|district|RANIPET|2023	283
+fatalities|district|SALEM|2021	721
+fatalities|district|SALEM|2022	868
+fatalities|district|SALEM|2023	797
+fatalities|district|SIVAGANGAI|2021	337
+fatalities|district|SIVAGANGAI|2022	395
+fatalities|district|SIVAGANGAI|2023	392
+fatalities|district|TENKASI|2021	237
+fatalities|district|TENKASI|2022	283
+fatalities|district|TENKASI|2023	252
+fatalities|district|THANJAVUR|2021	431
+fatalities|district|THANJAVUR|2022	551
+fatalities|district|THANJAVUR|2023	609
+fatalities|district|THE NILGIRIS|2021	33
+fatalities|district|THE NILGIRIS|2022	44
+fatalities|district|THE NILGIRIS|2023	75
+fatalities|district|THENI|2021	239
+fatalities|district|THENI|2022	338
+fatalities|district|THENI|2023	327
+fatalities|district|THIRUVALLUR|2021	331
+fatalities|district|THIRUVALLUR|2022	727
+fatalities|district|THIRUVALLUR|2023	730
+fatalities|district|THIRUVARUR|2021	168
+fatalities|district|THIRUVARUR|2022	216
+fatalities|district|THIRUVARUR|2023	227
+fatalities|district|THOOTHUKUDI|2021	394
+fatalities|district|THOOTHUKUDI|2022	457
+fatalities|district|THOOTHUKUDI|2023	486
+fatalities|district|TIRUCHIRAPALLI|2021	643
+fatalities|district|TIRUCHIRAPALLI|2022	714
+fatalities|district|TIRUCHIRAPALLI|2023	720
+fatalities|district|TIRUNELVELI|2021	359
+fatalities|district|TIRUNELVELI|2022	408
+fatalities|district|TIRUNELVELI|2023	415
+fatalities|district|TIRUPATHUR|2021	226
+fatalities|district|TIRUPATHUR|2022	217
+fatalities|district|TIRUPATHUR|2023	217
+fatalities|district|TIRUPPUR|2021	798
+fatalities|district|TIRUPPUR|2022	899
+fatalities|district|TIRUPPUR|2023	875
+fatalities|district|TIRUVANNAMALAI|2021	522
+fatalities|district|TIRUVANNAMALAI|2022	565
+fatalities|district|TIRUVANNAMALAI|2023	697
+fatalities|district|Total|2021	15384
+fatalities|district|Total|2022	17884
+fatalities|district|Total|2023	18347
+fatalities|district|VELLORE|2021	246
+fatalities|district|VELLORE|2022	294
+fatalities|district|VELLORE|2023	328
+fatalities|district|VILLUPURAM|2021	520
+fatalities|district|VILLUPURAM|2022	583
+fatalities|district|VILLUPURAM|2023	564
+fatalities|district|VIRUDHUNAGAR|2021	436
+fatalities|district|VIRUDHUNAGAR|2022	515
+fatalities|district|VIRUDHUNAGAR|2023	502
+fatalities|region|India|2020	138383
+fatalities|region|India|2021	153972
+fatalities|region|India|2022	168491
+fatalities|region|India|2023	172890
+fatalities|region|India|2024	177175
+fatalities|region|Tamil Nadu|1993	7349
+fatalities|region|Tamil Nadu|1994	7798
+fatalities|region|Tamil Nadu|1995	8773
+fatalities|region|Tamil Nadu|1996	9028
+fatalities|region|Tamil Nadu|1997	8755
+fatalities|region|Tamil Nadu|1998	9801
+fatalities|region|Tamil Nadu|1999	9653
+fatalities|region|Tamil Nadu|2000	9300
+fatalities|region|Tamil Nadu|2001	9571
+fatalities|region|Tamil Nadu|2002	9939
+fatalities|region|Tamil Nadu|2003	9275
+fatalities|region|Tamil Nadu|2004	9507
+fatalities|region|Tamil Nadu|2005	9760
+fatalities|region|Tamil Nadu|2006	11009
+fatalities|region|Tamil Nadu|2007	12036
+fatalities|region|Tamil Nadu|2008	12784
+fatalities|region|Tamil Nadu|2009	13746
+fatalities|region|Tamil Nadu|2010	15409
+fatalities|region|Tamil Nadu|2011	15422
+fatalities|region|Tamil Nadu|2012	16175
+fatalities|region|Tamil Nadu|2013	15563
+fatalities|region|Tamil Nadu|2014	15190
+fatalities|region|Tamil Nadu|2015	15642
+fatalities|region|Tamil Nadu|2016	17218
+fatalities|region|Tamil Nadu|2017	17918
+fatalities|region|Tamil Nadu|2018	18392
+fatalities|region|Tamil Nadu|2019	18129
+fatalities|region|Tamil Nadu|2020	14527
+fatalities|region|Tamil Nadu|2021	15384
+fatalities|region|Tamil Nadu|2022	17884
+fatalities|region|Tamil Nadu|2023	18347
+fatalities|region|Tamil Nadu|2024	18449
+fatalities|region|Tamil Nadu|2025	18274
+fatalities|state|All India|2020	138383
+fatalities|state|All India|2021	153972
+fatalities|state|All India|2022	168491
+fatalities|state|All India|2023	172890
+fatalities|state|All India|2024	177175
+fatalities|state|Andaman & Nicobar Islands|2020	14
+fatalities|state|Andaman & Nicobar Islands|2021	20
+fatalities|state|Andaman & Nicobar Islands|2022	19
+fatalities|state|Andaman & Nicobar Islands|2023	24
+fatalities|state|Andaman & Nicobar Islands|2024	29
+fatalities|state|Andhra Pradesh|2020	7039
+fatalities|state|Andhra Pradesh|2021	8186
+fatalities|state|Andhra Pradesh|2022	8293
+fatalities|state|Andhra Pradesh|2023	8137
+fatalities|state|Andhra Pradesh|2024	8346
+fatalities|state|Arunachal Pradesh|2020	73
+fatalities|state|Arunachal Pradesh|2021	157
+fatalities|state|Arunachal Pradesh|2022	148
+fatalities|state|Arunachal Pradesh|2023	145
+fatalities|state|Arunachal Pradesh|2024	168
+fatalities|state|Assam|2020	2629
+fatalities|state|Assam|2021	3036
+fatalities|state|Assam|2022	2994
+fatalities|state|Assam|2023	3296
+fatalities|state|Assam|2024	3351
+fatalities|state|Bihar|2020	6699
+fatalities|state|Bihar|2021	7660
+fatalities|state|Bihar|2022	8898
+fatalities|state|Bihar|2023	8873
+fatalities|state|Bihar|2024	9347
+fatalities|state|Chandigarh|2020	53
+fatalities|state|Chandigarh|2021	96
+fatalities|state|Chandigarh|2022	83
+fatalities|state|Chandigarh|2023	67
+fatalities|state|Chandigarh|2024	75
+fatalities|state|Chhattisgarh|2020	4606
+fatalities|state|Chhattisgarh|2021	5371
+fatalities|state|Chhattisgarh|2022	5834
+fatalities|state|Chhattisgarh|2023	6166
+fatalities|state|Chhattisgarh|2024	6945
+fatalities|state|Dadra & Nagar Haveli and Daman & Diu|2020	64
+fatalities|state|Dadra & Nagar Haveli and Daman & Diu|2021	76
+fatalities|state|Dadra & Nagar Haveli and Daman & Diu|2022	90
+fatalities|state|Dadra & Nagar Haveli and Daman & Diu|2023	74
+fatalities|state|Dadra & Nagar Haveli and Daman & Diu|2024	95
+fatalities|state|Delhi|2020	1196
+fatalities|state|Delhi|2021	1239
+fatalities|state|Delhi|2022	1461
+fatalities|state|Delhi|2023	1457
+fatalities|state|Delhi|2024	1551
+fatalities|state|Goa|2020	223
+fatalities|state|Goa|2021	226
+fatalities|state|Goa|2022	271
+fatalities|state|Goa|2023	290
+fatalities|state|Goa|2024	286
+fatalities|state|Gujarat|2020	6170
+fatalities|state|Gujarat|2021	7452
+fatalities|state|Gujarat|2022	7618
+fatalities|state|Gujarat|2023	7854
+fatalities|state|Gujarat|2024	7717
+fatalities|state|Haryana|2020	4507
+fatalities|state|Haryana|2021	4706
+fatalities|state|Haryana|2022	4915
+fatalities|state|Haryana|2023	4968
+fatalities|state|Haryana|2024	4689
+fatalities|state|Himachal Pradesh|2020	893
+fatalities|state|Himachal Pradesh|2021	1052
+fatalities|state|Himachal Pradesh|2022	1032
+fatalities|state|Himachal Pradesh|2023	889
+fatalities|state|Himachal Pradesh|2024	869
+fatalities|state|J & K #|2020	728
+fatalities|state|J & K #|2021	774
+fatalities|state|J & K #|2022	805
+fatalities|state|J & K #|2023	893
+fatalities|state|J & K #|2024	831
+fatalities|state|Jharkhand|2020	3044
+fatalities|state|Jharkhand|2021	3513
+fatalities|state|Jharkhand|2022	3898
+fatalities|state|Jharkhand|2023	4173
+fatalities|state|Jharkhand|2024	4114
+fatalities|state|Karnataka|2020	9760
+fatalities|state|Karnataka|2021	10038
+fatalities|state|Karnataka|2022	11702
+fatalities|state|Karnataka|2023	12321
+fatalities|state|Karnataka|2024	12390
+fatalities|state|Kerala|2020	2979
+fatalities|state|Kerala|2021	3429
+fatalities|state|Kerala|2022	4317
+fatalities|state|Kerala|2023	4080
+fatalities|state|Kerala|2024	3880
+fatalities|state|Ladakh|2021	56
+fatalities|state|Ladakh|2022	62
+fatalities|state|Ladakh|2023	59
+fatalities|state|Ladakh|2024	61
+fatalities|state|Lakshadweep|2020	0
+fatalities|state|Lakshadweep|2021	1
+fatalities|state|Lakshadweep|2022	2
+fatalities|state|Lakshadweep|2023	0
+fatalities|state|Lakshadweep|2024	0
+fatalities|state|Madhya Pradesh|2020	11141
+fatalities|state|Madhya Pradesh|2021	12057
+fatalities|state|Madhya Pradesh|2022	13427
+fatalities|state|Madhya Pradesh|2023	13798
+fatalities|state|Madhya Pradesh|2024	14791
+fatalities|state|Maharashtra|2020	11569
+fatalities|state|Maharashtra|2021	13528
+fatalities|state|Maharashtra|2022	15224
+fatalities|state|Maharashtra|2023	15366
+fatalities|state|Maharashtra|2024	15715
+fatalities|state|Manipur|2020	127
+fatalities|state|Manipur|2021	110
+fatalities|state|Manipur|2022	127
+fatalities|state|Manipur|2023	73
+fatalities|state|Manipur|2024	72
+fatalities|state|Meghalaya|2020	144
+fatalities|state|Meghalaya|2021	187
+fatalities|state|Meghalaya|2022	162
+fatalities|state|Meghalaya|2023	168
+fatalities|state|Meghalaya|2024	197
+fatalities|state|Mizoram|2020	42
+fatalities|state|Mizoram|2021	56
+fatalities|state|Mizoram|2022	113
+fatalities|state|Mizoram|2023	96
+fatalities|state|Mizoram|2024	110
+fatalities|state|Nagaland|2020	53
+fatalities|state|Nagaland|2021	55
+fatalities|state|Nagaland|2022	73
+fatalities|state|Nagaland|2023	86
+fatalities|state|Nagaland|2024	62
+fatalities|state|Odisha|2020	4738
+fatalities|state|Odisha|2021	5081
+fatalities|state|Odisha|2022	5467
+fatalities|state|Odisha|2023	5739
+fatalities|state|Odisha|2024	6142
+fatalities|state|Puducherry|2020	145
+fatalities|state|Puducherry|2021	140
+fatalities|state|Puducherry|2022	181
+fatalities|state|Puducherry|2023	149
+fatalities|state|Puducherry|2024	218
+fatalities|state|Punjab|2020	3898
+fatalities|state|Punjab|2021	4589
+fatalities|state|Punjab|2022	4756
+fatalities|state|Punjab|2023	4829
+fatalities|state|Punjab|2024	4759
+fatalities|state|Rajasthan|2020	9250
+fatalities|state|Rajasthan|2021	10043
+fatalities|state|Rajasthan|2022	11104
+fatalities|state|Rajasthan|2023	11762
+fatalities|state|Rajasthan|2024	11790
+fatalities|state|Sikkim|2020	47
+fatalities|state|Sikkim|2021	56
+fatalities|state|Sikkim|2022	92
+fatalities|state|Sikkim|2023	57
+fatalities|state|Sikkim|2024	67
+fatalities|state|Tamil Nadu|2020	14527
+fatalities|state|Tamil Nadu|2021	15384
+fatalities|state|Tamil Nadu|2022	17884
+fatalities|state|Tamil Nadu|2023	18347
+fatalities|state|Tamil Nadu|2024	18449
+fatalities|state|Telangana|2020	6882
+fatalities|state|Telangana|2021	7557
+fatalities|state|Telangana|2022	7559
+fatalities|state|Telangana|2023	7660
+fatalities|state|Telangana|2024	7949
+fatalities|state|Tripura|2020	192
+fatalities|state|Tripura|2021	194
+fatalities|state|Tripura|2022	241
+fatalities|state|Tripura|2023	261
+fatalities|state|Tripura|2024	226
+fatalities|state|Uttar Pradesh|2020	19149
+fatalities|state|Uttar Pradesh|2021	21227
+fatalities|state|Uttar Pradesh|2022	22595
+fatalities|state|Uttar Pradesh|2023	23652
+fatalities|state|Uttar Pradesh|2024	24118
+fatalities|state|Uttarakhand|2020	674
+fatalities|state|Uttarakhand|2021	820
+fatalities|state|Uttarakhand|2022	1042
+fatalities|state|Uttarakhand|2023	1054
+fatalities|state|Uttarakhand|2024	1090
+fatalities|state|West Bengal|2020	5128
+fatalities|state|West Bengal|2021	5800
+fatalities|state|West Bengal|2022	6002
+fatalities|state|West Bengal|2023	6027
+fatalities|state|West Bengal|2024	6676
+grievous_accidents|region|Tamil Nadu|1993	3562
+grievous_accidents|region|Tamil Nadu|1994	4199
+grievous_accidents|region|Tamil Nadu|1995	4440
+grievous_accidents|region|Tamil Nadu|1996	4474
+grievous_accidents|region|Tamil Nadu|1997	4542
+grievous_accidents|region|Tamil Nadu|1998	6562
+grievous_accidents|region|Tamil Nadu|1999	5276
+grievous_accidents|region|Tamil Nadu|2000	5278
+grievous_accidents|region|Tamil Nadu|2001	5442
+grievous_accidents|region|Tamil Nadu|2002	5830
+grievous_accidents|region|Tamil Nadu|2003	5163
+grievous_accidents|region|Tamil Nadu|2004	4875
+grievous_accidents|region|Tamil Nadu|2005	5214
+grievous_accidents|region|Tamil Nadu|2006	4630
+grievous_accidents|region|Tamil Nadu|2007	4498
+grievous_accidents|region|Tamil Nadu|2008	4426
+grievous_accidents|region|Tamil Nadu|2009	4448
+grievous_accidents|region|Tamil Nadu|2010	4613
+grievous_accidents|region|Tamil Nadu|2011	4619
+grievous_accidents|region|Tamil Nadu|2012	4851
+grievous_accidents|region|Tamil Nadu|2013	4715
+grievous_accidents|region|Tamil Nadu|2014	5375
+grievous_accidents|region|Tamil Nadu|2015	7388
+grievous_accidents|region|Tamil Nadu|2016	6262
+grievous_accidents|region|Tamil Nadu|2017	27927
+grievous_accidents|region|Tamil Nadu|2018	29697
+grievous_accidents|region|Tamil Nadu|2019	27255
+grievous_accidents|region|Tamil Nadu|2020	18653
+grievous_accidents|region|Tamil Nadu|2021	20743
+grievous_accidents|region|Tamil Nadu|2022	20752
+grievous_accidents|region|Tamil Nadu|2023	23686
+grievous_accidents|region|Tamil Nadu|2024	24985
+grievous_accidents|region|Tamil Nadu|2025	21481
+injuries|city|Agra|2023	657
+injuries|city|Agra|2024	984
+injuries|city|Ahmedabad|2023	1347
+injuries|city|Ahmedabad|2024	1269
+injuries|city|Allahabad (Prayagraj)|2023	865
+injuries|city|Allahabad (Prayagraj)|2024	832
+injuries|city|Amritsar|2023	73
+injuries|city|Amritsar|2024	57
+injuries|city|Asansol Durgapur|2023	271
+injuries|city|Asansol Durgapur|2024	291
+injuries|city|Aurangabad|2023	431
+injuries|city|Aurangabad|2024	447
+injuries|city|Bengaluru|2023	4162
+injuries|city|Bengaluru|2024	4022
+injuries|city|Bhopal|2023	2196
+injuries|city|Bhopal|2024	2223
+injuries|city|Chandigarh|2023	171
+injuries|city|Chandigarh|2024	133
+injuries|city|Chennai|2023	3958
+injuries|city|Chennai|2024	3970
+injuries|city|Coimbatore|2023	993
+injuries|city|Coimbatore|2024	1052
+injuries|city|Delhi|2023	5470
+injuries|city|Delhi|2024	5224
+injuries|city|Dhanbad|2023	135
+injuries|city|Dhanbad|2024	197
+injuries|city|Faridabad|2023	485
+injuries|city|Faridabad|2024	468
+injuries|city|Ghaziabad|2023	703
+injuries|city|Ghaziabad|2024	781
+injuries|city|Gwalior|2023	1567
+injuries|city|Gwalior|2024	1585
+injuries|city|Hyderabad|2023	2596
+injuries|city|Hyderabad|2024	3393
+injuries|city|Indore|2023	2806
+injuries|city|Indore|2024	2606
+injuries|city|Jabalpur|2023	4753
+injuries|city|Jabalpur|2024	4720
+injuries|city|Jaipur|2023	2331
+injuries|city|Jaipur|2024	2580
+injuries|city|Jamshedpur|2023	214
+injuries|city|Jamshedpur|2024	217
+injuries|city|Jodhpur|2023	565
+injuries|city|Jodhpur|2024	591
+injuries|city|Kannur|2023	2018
+injuries|city|Kannur|2024	1991
+injuries|city|Kanpur|2023	985
+injuries|city|Kanpur|2024	1132
+injuries|city|Khozikode|2023	2265
+injuries|city|Khozikode|2024	2487
+injuries|city|Kochi|2023	2788
+injuries|city|Kochi|2024	3243
+injuries|city|Kolkata|2023	1754
+injuries|city|Kolkata|2024	1724
+injuries|city|Kollam|2023	2318
+injuries|city|Kollam|2024	2180
+injuries|city|Kota|2023	641
+injuries|city|Kota|2024	527
+injuries|city|Lucknow|2023	983
+injuries|city|Lucknow|2024	1165
+injuries|city|Ludhiana|2023	209
+injuries|city|Ludhiana|2024	193
+injuries|city|Madurai|2023	583
+injuries|city|Madurai|2024	468
+injuries|city|Mallapuram|2023	3801
+injuries|city|Mallapuram|2024	3864
+injuries|city|Meerut|2023	848
+injuries|city|Meerut|2024	931
+injuries|city|Mumbai|2023	2617
+injuries|city|Mumbai|2024	2722
+injuries|city|Nagpur|2023	1211
+injuries|city|Nagpur|2024	1281
+injuries|city|Nashik|2023	493
+injuries|city|Nashik|2024	444
+injuries|city|Patna|2023	166
+injuries|city|Patna|2024	278
+injuries|city|Pune|2023	881
+injuries|city|Pune|2024	1041
+injuries|city|Raipur|2023	1440
+injuries|city|Raipur|2024	1495
+injuries|city|Rajkot|2023	380
+injuries|city|Rajkot|2024	377
+injuries|city|Srinagar|2023	492
+injuries|city|Srinagar|2024	516
+injuries|city|Surat|2023	461
+injuries|city|Surat|2024	473
+injuries|city|Thiruvanthapuram|2023	2326
+injuries|city|Thiruvanthapuram|2024	2377
+injuries|city|Thrissur|2023	3029
+injuries|city|Thrissur|2024	2761
+injuries|city|Tiruchirapalli|2023	652
+injuries|city|Tiruchirapalli|2024	636
+injuries|city|Total|2023	73476
+injuries|city|Total|2024	75056
+injuries|city|Vadodra|2023	404
+injuries|city|Vadodra|2024	432
+injuries|city|Varanasi|2023	344
+injuries|city|Varanasi|2024	362
+injuries|city|Vijaywada city|2023	1416
+injuries|city|Vijaywada city|2024	1156
+injuries|city|Vizaq|2023	1222
+injuries|city|Vizaq|2024	1158
+injuries|region|India|2020	346747
+injuries|region|India|2021	384448
+injuries|region|India|2022	443366
+injuries|region|India|2023	462825
+injuries|region|India|2024	471441
+injuries|region|Tamil Nadu|1993	5100
+injuries|region|Tamil Nadu|1994	6091
+injuries|region|Tamil Nadu|1995	6380
+injuries|region|Tamil Nadu|1996	7383
+injuries|region|Tamil Nadu|1997	6567
+injuries|region|Tamil Nadu|1998	8525
+injuries|region|Tamil Nadu|1999	7287
+injuries|region|Tamil Nadu|2000	8496
+injuries|region|Tamil Nadu|2001	8354
+injuries|region|Tamil Nadu|2002	8697
+injuries|region|Tamil Nadu|2003	8557
+injuries|region|Tamil Nadu|2004	7642
+injuries|region|Tamil Nadu|2005	7815
+injuries|region|Tamil Nadu|2006	6833
+injuries|region|Tamil Nadu|2007	6873
+injuries|region|Tamil Nadu|2008	6696
+injuries|region|Tamil Nadu|2009	6721
+injuries|region|Tamil Nadu|2010	6844
+injuries|region|Tamil Nadu|2011	6573
+injuries|region|Tamil Nadu|2012	6972
+injuries|region|Tamil Nadu|2013	6513
+injuries|region|Tamil Nadu|2014	7381
+injuries|region|Tamil Nadu|2015	9400
+injuries|region|Tamil Nadu|2016	8421
+injuries|region|Tamil Nadu|2017	35488
+injuries|region|Tamil Nadu|2018	37664
+injuries|region|Tamil Nadu|2019	34181
+injuries|region|Tamil Nadu|2020	22593
+injuries|region|Tamil Nadu|2021	23143
+injuries|region|Tamil Nadu|2022	22732
+injuries|region|Tamil Nadu|2023	26371
+injuries|region|Tamil Nadu|2024	27245
+injuries|region|Tamil Nadu|2025	22946
+minor_accidents|region|Tamil Nadu|1993	17957
+minor_accidents|region|Tamil Nadu|1994	18950
+minor_accidents|region|Tamil Nadu|1995	21661
+minor_accidents|region|Tamil Nadu|1996	22151
+minor_accidents|region|Tamil Nadu|1997	23362
+minor_accidents|region|Tamil Nadu|1998	23862
+minor_accidents|region|Tamil Nadu|1999	27231
+minor_accidents|region|Tamil Nadu|2000	29137
+minor_accidents|region|Tamil Nadu|2001	30963
+minor_accidents|region|Tamil Nadu|2002	32183
+minor_accidents|region|Tamil Nadu|2003	31600
+minor_accidents|region|Tamil Nadu|2004	33222
+minor_accidents|region|Tamil Nadu|2005	34669
+minor_accidents|region|Tamil Nadu|2006	36262
+minor_accidents|region|Tamil Nadu|2007	39494
+minor_accidents|region|Tamil Nadu|2008	39193
+minor_accidents|region|Tamil Nadu|2009	39676
+minor_accidents|region|Tamil Nadu|2010	42320
+minor_accidents|region|Tamil Nadu|2011	42766
+minor_accidents|region|Tamil Nadu|2012	44604
+minor_accidents|region|Tamil Nadu|2013	44158
+minor_accidents|region|Tamil Nadu|2014	45100
+minor_accidents|region|Tamil Nadu|2015	44880
+minor_accidents|region|Tamil Nadu|2016	46908
+minor_accidents|region|Tamil Nadu|2017	19404
+minor_accidents|region|Tamil Nadu|2018	18190
+minor_accidents|region|Tamil Nadu|2019	16509
+minor_accidents|region|Tamil Nadu|2020	16259
+minor_accidents|region|Tamil Nadu|2021	18896
+minor_accidents|region|Tamil Nadu|2022	24825
+minor_accidents|region|Tamil Nadu|2023	24555
+minor_accidents|region|Tamil Nadu|2024	23675
+minor_accidents|region|Tamil Nadu|2025	30941
+non_injury_accidents|region|Tamil Nadu|1993	6878
+non_injury_accidents|region|Tamil Nadu|1994	6861
+non_injury_accidents|region|Tamil Nadu|1995	7610
+non_injury_accidents|region|Tamil Nadu|1996	7493
+non_injury_accidents|region|Tamil Nadu|1997	8352
+non_injury_accidents|region|Tamil Nadu|1998	7789
+non_injury_accidents|region|Tamil Nadu|1999	6845
+non_injury_accidents|region|Tamil Nadu|2000	6239
+non_injury_accidents|region|Tamil Nadu|2001	6994
+non_injury_accidents|region|Tamil Nadu|2002	6478
+non_injury_accidents|region|Tamil Nadu|2003	5869
+non_injury_accidents|region|Tamil Nadu|2004	5678
+non_injury_accidents|region|Tamil Nadu|2005	5151
+non_injury_accidents|region|Tamil Nadu|2006	4198
+non_injury_accidents|region|Tamil Nadu|2007	4114
+non_injury_accidents|region|Tamil Nadu|2008	4977
+non_injury_accidents|region|Tamil Nadu|2009	3943
+non_injury_accidents|region|Tamil Nadu|2010	3822
+non_injury_accidents|region|Tamil Nadu|2011	4129
+non_injury_accidents|region|Tamil Nadu|2012	3230
+non_injury_accidents|region|Tamil Nadu|2013	2861
+non_injury_accidents|region|Tamil Nadu|2014	2610
+non_injury_accidents|region|Tamil Nadu|2015	2267
+non_injury_accidents|region|Tamil Nadu|2016	2169
+non_injury_accidents|region|Tamil Nadu|2017	2533
+non_injury_accidents|region|Tamil Nadu|2018	2005
+non_injury_accidents|region|Tamil Nadu|2019	1725
+non_injury_accidents|region|Tamil Nadu|2020	1064
+non_injury_accidents|region|Tamil Nadu|2021	1297
+non_injury_accidents|region|Tamil Nadu|2022	1448
+non_injury_accidents|region|Tamil Nadu|2023	1446
+non_injury_accidents|region|Tamil Nadu|2024	1226
+non_injury_accidents|region|Tamil Nadu|2025	943
